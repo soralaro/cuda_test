@@ -1,0 +1,3 @@
+/home/czx/work/cuda/build/CMakeFiles/rebuild_cache.dir
+/home/czx/work/cuda/build/CMakeFiles/CUDA_TEST.dir
+/home/czx/work/cuda/build/CMakeFiles/edit_cache.dir
